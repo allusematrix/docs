@@ -25,7 +25,7 @@ Once you've completed this getting started guide to balena, you'll be equipped w
 {{import "getting-started/whatYouNeed"}}
 
 
-## Create a fleet 
+## Create a fleet .
 
 A fleet is a group of devices that share the same [architecture][architecture] and run the same code. Devices are added to fleets and can be moved between fleets at any time.
 
